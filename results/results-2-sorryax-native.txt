@@ -1,0 +1,250 @@
+文件 175,073 / 读不了 0
+
+=== sorryAx: 0 ===
+
+=== native_decide: 0 ===
+
+=== set_option: 88114 ===
+('lean/src\\CompanionTheory\\AutomorphicTheory\\BesselWaveGrids\\PowFourLeRpowNineHalves.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\BesselWaveGrids\\ProductMoment.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\BesselWaveGrids\\WaveBallEstimateWeightedDualAlt.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\BesselWaveGrids\\WeightedUniformRotatedOfExpansion.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\BesselWaveGrids\\WeightedUniformRotatedOfExpansion.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\KrullDimension\\TopologicalKrullDimModel.lean', 'autoImplicit')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\LocalBesselUniqueness\\HatCap.lean', 'linter.unusedSectionVars')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\LocalBesselUniqueness\\HatProd.lean', 'linter.unusedSectionVars')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\LocalBesselUniqueness\\OpLocal.lean', 'linter.unusedSectionVars')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\LocalBesselUniqueness\\BesselModels\\AmplitudeOrbitalIntegral.lean', 'linter.dupNamespace')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\LocalBesselUniqueness\\BesselModels\\AtFormAdm.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\LocalBesselUniqueness\\BesselModels\\AtFormAdmOneOfSteps.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\LocalBesselUniqueness\\BesselModels\\BesselSchurOfDec.lean', 'linter.unusedVariables')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\LocalBesselUniqueness\\BesselModels\\DDForm.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\LocalBesselUniqueness\\BesselModels\\EClose.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\LocalBesselUniqueness\\BesselModels\\LocQuad1GHolds.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PadicUnitaryWeights\\CrystallineUnitParts\\UnitPart.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PadicUnitaryWeights\\CrystallineUnitParts\\UnitPart.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\BesselCayleySideBoundStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\BesselFormalDegreeIdentityStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\BesselFormalDegreePairingStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\BesselFrameEntryRelationStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\BesselGapDimensionFormula.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\BesselGapDimensionFormulaStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\BesselGapExistsFunctionalStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\BesselGapGrowthBoundStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\BesselGapIntegrabilityStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\BesselGapPairingStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\BesselGapVanishingStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\BesselLieTriangularVanishingStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\BesselPeriodAdjointPairStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\BesselSettingGapBoundDualStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\BesselSettingGapBoundStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\BesselSettingGapDecayStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\BesselSettingUniformConstantStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\BesselSumDecompositionStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\CayleyEndomorphismsModularStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\CayleyEndomorphismsUnitaryStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\ComplexifiedDerivedActionLieHomGramAdjointStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\DerivedActionDiscreteSeriesPropertiesStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\DerivedActionExpandMatrixUnitsStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\DiscreteSeriesParameterUniqueStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\DiscreteSeriesUnitarySmoothBasicStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\DualTensorBesselMomentStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\DualTensorCapelliIntertwineStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\DualTensorCayleyCompatibleStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\DualTensorCayleyWeightedStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\ExistsFamilyFunctionalsStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\ExistsKTypeNonzeroBesselStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\ExistsLowestKFiniteVectorDiscreteSeriesStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\FamilyFunctionalSpanDualStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\FamilySetupBesselGrowthStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\FamilySetupCayleyBoundStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\FamilySetupCayleyMoment.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\FamilySetupCayleyMomentStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\FamilySetupCayleyRecursionStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\FamilySetupMomentClosureStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\FamilySetupMomentGrowthStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\FamilySetupMomentRecursionStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\FrechetContinuousContinuousOnOrbitHasDerivAtStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\FrepDiscreteSeriesSumStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\GapCoefficientBound.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\GapCoefficientBoundDual.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\GapCoefficientBoundDualStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\GapCoefficientBoundStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\GapCoefficientDerivativeBoundStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\IsometricBesselCompareStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\IsometricBesselSideBoundStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\KFiniteDerivativesFiniteSpanStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\KStableFiniteDimSmoothCompactRootStableStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\MatrixCoefficientDecayStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\MatrixCoefficientSmoothDerivativesStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\PieriTensorDecompositionStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\QuantumDeterminantEigenvalueStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\QuotientMeasureAeMemAndMeasurableBesselModelStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\SmoothMapsClosureStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\SmoothVectorsDiscreteSeriesGlModuleStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\TensorBesselTransferStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\TensorDecompositionInjectiveParametersStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\TensorDecompositionParametersStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\TensorMomentEstimateStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\TensorMomentTransferStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\TensorMomentWeightedStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\TensorRawOfFrepStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\TensorWeightedBesselGapStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\TensorWeightedBesselSumStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\PieriRules\\ThetaBesselIsometries\\TorusWeightEigenAndRootShiftStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\CuspidalExhaustion\\MidExact.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\DualAbelianSchemes\\AddAcyclic.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\DualAbelianSchemes\\FewEqBridge.lean', 'autoImplicit')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\DualAbelianSchemes\\PointSurj.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\DualAbelianSchemes\\Rigdesc.lean', 'autoImplicit')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\DualAbelianSchemes\\TrivLocus.lean', 'autoImplicit')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\DualAbelianSchemes\\TrivLocusFlat.lean', 'autoImplicit')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\GrothendieckRingPolynomial\\AltSum.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\GrothendieckRingPolynomial\\ClassGlEqClass.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\GrothendieckRingPolynomial\\ClassProductIrreducibleApply.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\GrothendieckRingPolynomial\\ClassProductIrreducibleCast.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\GrothendieckRingPolynomial\\ClassProductIrreducibleCast.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\GrothendieckRingPolynomial\\ClassProductIrreducibleCast.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\GrothendieckRingPolynomial\\ClassProductIrreducibleFold.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\GrothendieckRingPolynomial\\ClassProductIrreducibleLeft.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\GrothendieckRingPolynomial\\ClassProductIrreducibleLeft.lean', 'linter.unusedSectionVars')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\GrothendieckRingPolynomial\\JacquetFunctionalClass.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\GrothendieckRingPolynomial\\JhMultSegCl.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\GrothendieckRingPolynomial\\MulClassBasisRight.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\GrothendieckRingPolynomial\\MultOne.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\GrothendieckRingPolynomial\\PeelGood.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\GrothendieckRingPolynomial\\PhiZAux.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\GrothendieckRingPolynomial\\PhiZBijective.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\GrothendieckRingPolynomial\\ProdList.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\GrothendieckRingPolynomial\\SingleEqSmulSingle.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\GrothendieckRingPolynomial\\TriCoeFlattenDecW.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\SquareIntegrableSegments\\SegmentReordering\\ReorderCommon.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\SquareIntegrableSegments\\SegmentReordering\\ReorderCommon.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\SquareIntegrableSegments\\SegmentReordering\\ReorderCommon.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\SquareIntegrableSegments\\SegmentReordering\\ReorderCommon.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\SquareIntegrableSegments\\SegmentReordering\\ReorderCommon.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\SquareIntegrableSegments\\SegmentReordering\\ReorderCommon.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ProductFormulaTheory\\SquareIntegrableSegments\\SegmentReordering\\ReorderCommon.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\RankOneTori\\FrameBesselBoundOfLargeConstants.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\RankOneTori\\RpowNegLe.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\SchurLimitBounds\\SchurOrthogonality\\SchurOrthogonality.lean', 'linter.unusedSectionVars')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\SegmentRepresentations\\IrreducibleSegments\\SegmentRepresentationLit.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\TemperedLocalSpectra\\ObstructionLifting\\H1StructureDimLe.lean', 'autoImplicit')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\TemperedLocalSpectra\\ObstructionLifting\\ObstructionLift.lean', 'autoImplicit')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ThetaDilations\\ActWSmul.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ThetaDilations\\Bounded.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ThetaDilations\\ContinuousPm.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\ThetaDilations\\SwOne.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\UnitriangularMeasure\\AdeleCoordinateMeasure\\EllipticTorusNorm.lean', 'maxSynthPendingDepth')
+('lean/src\\CompanionTheory\\AutomorphicTheory\\UnitriangularMeasure\\AdeleCoordinateMeasure\\GJGlobalModulus.lean', 'maxSynthPendingDepth')
+('lean/src\\CompanionTheory\\HarishChandraModules\\BesselParameterIntegrals\\ContDiffOnExpPartialHomeomorphSymm.lean', 'linter.unusedSectionVars')
+('lean/src\\CompanionTheory\\HarishChandraModules\\BesselParameterIntegrals\\ExistsUniqueComplexification.lean', 'linter.unusedSectionVars')
+('lean/src\\CompanionTheory\\HarishChandraModules\\BesselParameterIntegrals\\PolarUH.lean', 'linter.unusedSectionVars')
+('lean/src\\CompanionTheory\\HarishChandraModules\\BesselParameterIntegrals\\BesselOrbitConvolutions\\AtForm.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\HarishChandraModules\\BesselParameterIntegrals\\BesselOrbitConvolutions\\AtFormAdm.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\HarishChandraModules\\BesselParameterIntegrals\\BesselOrbitConvolutions\\AtFormAdmC.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\HarishChandraModules\\BesselParameterIntegrals\\BesselOrbitConvolutions\\AtFormC.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\HarishChandraModules\\BesselParameterIntegrals\\BesselOrbitConvolutions\\BesselNonvanishingFromL2.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\HarishChandraModules\\BesselParameterIntegrals\\BesselOrbitConvolutions\\DDForm.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\HarishChandraModules\\BesselParameterIntegrals\\BesselOrbitConvolutions\\DDFormC.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\HarishChandraModules\\BesselParameterIntegrals\\BesselOrbitConvolutions\\OOConv.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\HarishChandraModules\\BesselParameterIntegrals\\BesselOrbitConvolutions\\QuadAOf.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\HarishChandraModules\\BesselParameterIntegrals\\BesselOrbitConvolutions\\QuadBOf.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\HarishChandraModules\\BesselParameterIntegrals\\BesselOrbitConvolutions\\VanishingOfL2Equivariant.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\HarishChandraModules\\KFiniteAnalyticVectors\\AdmissibleSmoothVectors\\IwaChol.lean', 'linter.unusedSectionVars')
+('lean/src\\CompanionTheory\\HarishChandraModules\\KFiniteAnalyticVectors\\FundamentalDomainCusps\\LogBallEstimates.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\DiscreteSeries\\DiscreteSeriesClassification\\DiscreteSeriesExhaustion\\HeckeAlgebraActions\\HeckeUnitTensors\\CommuteLeftRightCasimir.lean', 'linter.unusedVariables')
+('lean/src\\CompanionTheory\\RealGroups\\DiscreteSeries\\DiscreteSeriesClassification\\DiscreteSeriesExhaustion\\MatrixCoefficientDecay\\InfinitesimalCharacterPaths\\HasCharPath.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\BoundB.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\ComapTwKer.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\NontrivialOfIsIrreducible.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\PosMkIff.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\PosMkIff.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SomeRed.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\ThetaContra.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\ExistsPermOfIsSubquotientJac.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\ExistsPermOfIsSubquotientJac.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\ExistsUniqueIrredSub.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\HasFiniteLengthJacSub.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\HasFiniteLengthJacSub.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\IsSubquotientJacMultiProdOfSub.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\IsSubquotientJacOfLe.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\IsSubquotientJacOfLe.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\JhMultRevJacSub.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\JhMultRevJacSub.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\RhoNuRhoOfC.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\SegRepOf.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\SegRepOf.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\SegRepOf.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\SegRepOf.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\SegRepOf.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\SrEasy.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\SrEasy.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\SrEasy.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\SrMult.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\SrMult.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\SrPerm.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\SrPerm.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\StageC.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\StageC.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\StageC.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\StageC.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\StageC.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\StageC.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\StageC.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\StageC.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\StageC.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\StageC.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\StageC.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\StageC.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\StageC.lean', 'synthInstance.maxHeartbeats')
+('lean/src\\CompanionTheory\\RealGroups\\GeneralUnitaryRepresentations\\ArchimedeanJacquetSegments\\SegmentSubquotients\\StageC.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\SpectralGeometry\\CountingDefinitions\\VoronoiMeans\\VorFunEvalEqFineMean.lean', 'autoImplicit')
+('lean/src\\CompanionTheory\\SpectralGeometry\\LocalGlobalProofs\\AdelicAnalysis\\AdeleRingCocompactDiscreteNumberFieldStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\SpectralGeometry\\LocalGlobalProofs\\AdelicAnalysis\\AdelesLocallyCompactSecondCountableStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\SpectralGeometry\\LocalGlobalProofs\\AdelicAnalysis\\AdelesSelfDualStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\SpectralGeometry\\LocalGlobalProofs\\AdelicAnalysis\\AdelicBoxesCompactExhaustStatement.lean', 'maxHeartbeats')
+('lean/src\\CompanionTheory\\SpectralGeometry\\LocalGlobalProofs\\AdelicAnalysis\\AdelicBoxLatticeCountRatioStatement.lean', 'maxHeartbeats')
+
+=== implemented_by: 0 ===
+
+=== extern: 0 ===
+
+=== opaque: 0 ===
+
+=== unsafe: 0 ===
+
+=== set_option 统计 ===
+ 57,545  maxHeartbeats
+ 11,203  autoImplicit
+  7,478  maxSynthPendingDepth
+  7,370  synthInstance.maxHeartbeats
+  1,879  backward.isDefEq.respectTransparency
+    871  linter.unusedSectionVars
+    503  linter.unusedVariables
+    272  linter.unusedSimpArgs
+    181  genSizeOfSpec
+    179  genInjectivity
+    122  linter.style.haveILetI
+     87  backward.isDefEq.respectTransparency.types
+     51  synthInstance.maxSize
+     46  linter.dupNamespace
+     40  linter.overlappingInstances
+     38  linter.all
+     37  allowUnsafeReducibility
+     34  maxRecDepth
+     34  linter.deprecated
+     33  backward.defeqAttrib.useBackward
+     31  hygiene
+     23  linter.style.longLine
+     12  linter.unusedTactic
+     12  linter.unreachableTactic
+      9  linter.unnecessarySeqFocus
+      9  pp.fullNames
+      7  quotPrecheck
+      3  smartUnfolding
+      1  linter.auxLemma
+      1  Elab.async
+      1  linter.unnecessarySimpa
+      1  genSizeOf
+      1  warn.classDefReducibility
